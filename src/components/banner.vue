@@ -3,7 +3,7 @@
         <div class="w-4/5 lg:w-full flex flex-col items-center gap-2 animate-[banercon_.5s_linear]">
             <h1 class="lg:text-5xl md:text-4xl text-3xl font-normal lg:w-2/4 text-center tracking-wide">ONE STOP SOLUTION FOR THE BEST <span class="text-[#ff3e5e]">SOFTWARE</span> EXPERIENCE</h1>
             <p class="text-lg text-black text-center lg:w-2/4">We provide innovative solutions to digitalise the lifestyle of our valuable customers ranging from High end to low end softwares</p>
-            <button class="h-[40px] w-[120px] text-base text-white rounded-[8px] px-[5px] py-[10px] cursor-pointer bg-[#ff3e5e] hover:bg-[#fc0b33] z-10 transition ease-linear duration-300" onclick="document.location='#about'">Discover</button>
+            <button class="h-[40px] w-[120px] text-base text-white rounded-[8px] cursor-pointer bg-[#ff3e5e] hover:bg-[#fc0b33] z-10 transition ease-linear duration-300" onclick="document.location='#about'">Discover</button>
         </div>
         <div class="area" >
             <ul class="circles">
