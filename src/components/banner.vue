@@ -1,9 +1,12 @@
 <template>
-    <div class="mt-[60px] h-[90vh] w-full flex items-center justify-center bg-gradient-to-b from-[#ecfdff] to-[#ffffff85] ">
+    <div class="h-[100vh] w-full flex items-center justify-center bg-gradient-to-b from-[#ecfdff] to-[#ffffff85] ">
         <div class="w-4/5 lg:w-full flex flex-col items-center gap-2 animate-[banercon_.5s_linear]">
-            <h1 class="lg:text-5xl md:text-4xl text-3xl font-normal lg:w-2/4 text-center tracking-wide">ONE STOP SOLUTION FOR THE BEST <span class="text-[#ff3e5e]">SOFTWARE</span> EXPERIENCE</h1>
-            <p class="text-lg text-black text-center lg:w-2/4">We provide innovative solutions to digitalise the lifestyle of our valuable customers ranging from High end to low end softwares</p>
-            <button class="h-[40px] w-[120px] text-base text-white rounded-[8px] cursor-pointer bg-[#ff3e5e] hover:bg-[#fc0b33] z-10 transition ease-linear duration-300" onclick="document.location='#about'">Discover</button>
+            <p class="lg:text-[3rem] md:text-[2.25rem] text-[1.875rem] font-normal lg:w-2/4 text-center tracking-wider leading-[3.5rem]">
+                ONE STOP SOLUTION FOR THE BEST 
+                <span class="text-[#ff3e5e]">SOFTWARE</span> 
+                EXPERIENCE</p>
+            <p class="text-lg text-black text-center lg:w-2/4 mt-8">We provide innovative solutions to digitalise the lifestyle of our valuable customers ranging from High end to low end softwares</p>
+            <button class="mt-3 h-[40px] w-[120px] text-base text-white rounded-[8px] cursor-pointer bg-[#ff3e5e]/90 hover:bg-[#ff3e5e] z-10 transition ease-linear duration-300 hover:scale-110" onclick="document.location='#about'">Discover</button>
         </div>
         <div class="area" >
             <ul class="circles">
