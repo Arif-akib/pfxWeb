@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div class="flex items-center justify-between w-full bg-white fixed top-0 h-[60px] shadow-sm z-50 backdrop-blur-lg">
+        <div class="flex items-center justify-between w-full bg-white fixed top-0 h-[60px] shadow-md z-50 backdrop-blur-lg">
             <a href="" class="flex items-center ml-[5%] cursor-pointer"><img class="h-[40px]" src="@/assets/image/02.png"/></a>
             <ul class="lg:flex gap-[25px] hidden">
                 <li><a href="#about" class="text-base font-normal text-black cursor-pointer w-full hover:text-[#fc0b33] transition ease-linear duration-300">About Us</a></li>
